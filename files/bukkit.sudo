@@ -1,0 +1,5 @@
+#
+# FILE MANAGED BY PUPPET
+#
+bukkit ALL=(ALL) NOPASSWD:/usr/sbin/service bukkit stop
+bukkit ALL=(ALL) NOPASSWD:/usr/sbin/service bukkit start
